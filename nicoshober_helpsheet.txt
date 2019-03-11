@@ -1,0 +1,30 @@
+1.) to add comments in c++ you use two slashes (  //  )after the code or on  a fresh line because anything after the two slashes will be ignored by the program
+
+2.) to comment in Python code it it very similar except you use a hash (  #  ) instead in place of two slashes.
+
+3.) .md is a the file type "markdown" and is similiar to text files.
+
+
+
+2/18 additions
+
+
+
+// 1. Write flag character and repeated pixel.  Strip pesky newline at end.
+
+			pixf_cmpr << "\n -rep- " << pix_list[i].substr(0, pix_list[i].find_last_not_of(whitespace)); 
+
+      //whitespace = string whitespace(" \t\f\v\n\r");
+
+
+
+3/4 additions
+
+
+I think the ops variable is a string, the conatiner data type is important because it can store and manipulate data
+
+3/11 additions (lab04)
+struct ____name____ {
+
+
+};
